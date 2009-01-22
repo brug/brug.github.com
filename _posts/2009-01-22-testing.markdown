@@ -1,7 +1,19 @@
 ---
 layout: post
-title: Hello fellow bruggers
+title: Testing markdown
 ---
 
 # {{page.title}}
-this was made in error
+
+Testing code highlighting...
+
+{% highlight ruby %}
+def initialize(xml, type = :set)
+  to = address(xml)
+  super(type, to)
+  self.query = Element.new Command::IqCommand.new(xml.root.name)
+  self.command << Dataforms::XData.new(:submit)
+  @xml = xml
+  self.build
+end
+{% endhighlight %}

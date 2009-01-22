@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jrkyll README
+title: Jekyll README
 ---
 
 # {{ page.title }}
