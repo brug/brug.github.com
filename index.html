@@ -7,13 +7,7 @@ title: BRUG
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a> &laquo; 
-	<span class="comments-link"><script>
-			var idcomments_acct = '666eaab0d55610e741d7e9a961e57763';
-			var idcomments_post_id;
-			var idcomments_post_url;
-			</script>
-			<script type="text/javascript" src="http://www.intensedebate.com/js/genericLinkWrapperV2.js"></script></span></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
