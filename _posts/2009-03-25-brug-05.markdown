@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BRUG #5"
+title: BRUG \#5
 ---
 
 # {{page.title}}
