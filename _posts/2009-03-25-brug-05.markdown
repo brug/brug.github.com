@@ -1,0 +1,8 @@
+---
+layout: post
+title: BRUG #5
+---
+
+# {{page.title}}
+
+The fifth meeting of BRUG will be an informal natter about all things Ruby over a pint or two (and maybe a nibble) in the Watershed bar. 6:00pm for 6:30pm.
