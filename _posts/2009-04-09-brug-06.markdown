@@ -1,0 +1,14 @@
+---
+layout: post
+title: BRUG \#6
+---
+
+# {{page.title}}
+
+BRUG takes to a new venue this month — the Jiva office, just over Bristol Bridge near the Fleece and Firkin. See map.
+
+* Pip Wilson has kindly offered to talk about memcachedb or couchdb. 
+
+If you are thinking of talking about anything don't be shy. We don't expect presentations to be highly polished or professional. If you are interested in it the chances are we will be too. And we are a small and friendly group.
+
+We will start at 6:00pm or thereabouts and we will probably round off the evening with a pint in the Seven Stars next door.
