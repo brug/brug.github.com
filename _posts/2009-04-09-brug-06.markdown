@@ -5,12 +5,17 @@ title: BRUG \#6
 
 # {{page.title}}
 
-BRUG takes to a new venue this month — the Jiva office, just over Bristol Bridge near the Fleece and Firkin. See map.
+BRUG takes to a new venue this month — the Jiva office, just over Bristol Bridge near the Fleece and Firkin. [See map][1].
 
-* Pip Wilson has kindly offered to talk about memcachedb or couchdb. 
+[1]: http://snipurl.com/jivaoffice
 
-If you are thinking of talking about anything don't be shy. We don't expect presentations to be highly polished or professional. If you are interested in it the chances are we will be too. And we are a small and friendly group.
+* Pip Wilson will talk about memcachedb and couchdb. 
+* Jamie Dyer will talk about two JavaScript projects, a mocking library and a state machine, both of which have been inspired by ruby gems.
+
+If you are thinking of talking about anything don't be shy. We don't expect presentations to be highly polished or professional. If you are interested in it the chances are that we will be too. And we are a small and friendly group.
 
 We will start at 6:00pm or thereabouts and we will probably round off the evening with a pint in the Seven Stars next door.
 
-If you are thinking of coming you are encouraged (but not required) to [let us know on Upcoming](http://upcoming.yahoo.com/event/2463558/).
+If you are thinking of coming you are encouraged (but not required) to [let us know on Upcoming][2].
+
+[2]: http://upcoming.yahoo.com/event/2463558/
