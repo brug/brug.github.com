@@ -10,7 +10,6 @@ BRUG takes to a new venue this month — the Jiva office, just over Bristol Brid
 [1]: http://snipurl.com/jivaoffice
 
 * Pip Wilson will talk about memcachedb and couchdb. 
-* Jamie Dyer will talk about two JavaScript projects, a mocking library and a state machine, both of which have been inspired by ruby gems.
 
 If you are thinking of talking about anything don't be shy. We don't expect presentations to be highly polished or professional. If you are interested in it the chances are that we will be too. And we are a small and friendly group.
 
