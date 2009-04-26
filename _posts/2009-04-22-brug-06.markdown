@@ -1,0 +1,16 @@
+---
+layout: post
+title: BRUG \#6
+---
+
+# {{page.title}}
+
+Half a dozen or so of us met up for the sixth Bristol Ruby User Group at [Jiva Technology](http://jivatechnology.com/)'s offices, where we were 
+regaled by tales of [memcached](http://code.google.com/p/memcached/) by [Phil Wilson](http://philwilson.org/blog/), given a tour of 
+[CouchDB](http://couchdb.apache.org/) by Theo, given an overview of the benefits of [Passenger for 
+Nginx](http://www.modrails.com/documentation/Users%20guide%20Nginx.html) by Jamie, as well as many other things like 
+a tour of HAML and Sass, an introduction to [Smurf](http://github.com/thumblemonks/smurf/tree/master) by [Steve](http://wearebeef.co.uk/), as well as 
+much chat about the best way to monitor logs and configure caching servers (including [Varnish](http://varnish.projects.linpro.no/), which I'd not 
+heard about before!).
+
+All in all a great meetup and really showed us the benefits of having somewhere with a) a projector, b) wifi and c) remembering our laptops!
