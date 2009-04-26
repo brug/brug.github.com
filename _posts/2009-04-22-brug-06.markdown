@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BRUG 6
+title: BRUG 6 - the aftermath
 ---
 
 # {{page.title}}
