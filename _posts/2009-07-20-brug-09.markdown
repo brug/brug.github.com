@@ -1,0 +1,10 @@
+---
+layout: post
+title: BRUG 9 
+---
+
+# {{page.title}}
+
+The ninth meeting of the Bristol Ruby User Group is scheduled for 6:30pm on Thu 23 Jul at the [Jiva Office](http://snipurl.com/jivaoffice).
+
+I have collated the existing offers and suggestions on the <a href="http://brug.uservoice.com/" onclick="UserVoice.Popin.show(); return false;">BRUG Uservoice page</a>. Please vote for your favourites, or suggest alternatives. 
