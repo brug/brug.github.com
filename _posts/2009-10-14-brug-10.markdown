@@ -12,6 +12,7 @@ We have three (count 'em) talks this month:
 * [Stephen England](http://twitter.com/stephenengland) on [Cucumber](http://cukes.info/)
 * [Theo Cushion](http://twitter.com/theozaurus) and [Jamie Dyer](http://twitter.com/kernowsoul) on [Wuzlr](http://wuzlr.com)
 * [Nicolas Alpi](http://twitter.com/spyou) on [Planet Toaster](http://www.planettoaster.com/)
+  _Seems like http://planettoaster.com is down at the moment but you can read [Nic's blog post about it](http://www.notgeeklycorrect.com/ruby-on-rails/2009/08/25/more-about-the-railsrumble-and-planettoaster-com/)_
 
 Wuzlr and Planet Toaster both being entries for this year's [Rails Rumble](http://r09.railsrumble.com/entries).
 
