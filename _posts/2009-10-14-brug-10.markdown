@@ -5,7 +5,7 @@ title: BRUG 10
 
 # {{page.title}}
 
-The tenth meeting of the Bristol Ruby User Group is scheduled for 6:30pm on Thu 29 Oct at [Beef Towers](http://www.wearebeef.co.uk/contact_us), Unit 1.10, Paintworks, Bristol, BS4 3EH. On the Bath Road about a mile SE of Bristol Temple Meads station.
+The tenth meeting of the Bristol Ruby User Group is scheduled for 6:30pm on Thu 29 Oct at [Beef Towers](http://maps.google.co.uk/maps/ms?ie=UTF8&msa=0&msid=102259160340464042766.000475e709a489f460878&ll=51.443048,-2.569079&spn=0.000945,0.002245&t=h&z=19), Unit 1.10, Paintworks, Bristol, BS4 3EH. On the Bath Road about a mile SE of Bristol Temple Meads station.
 
 We have three (count 'em) talks this month:
 
