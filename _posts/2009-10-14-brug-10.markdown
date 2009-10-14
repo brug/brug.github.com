@@ -10,7 +10,7 @@ The tenth meeting of the Bristol Ruby User Group is scheduled for 6:30pm on Thu 
 We have three (count 'em) talks this month:
 
 * [Stephen England](http://twitter.com/stephenengland) on [Cucumber](http://cukes.info/)
-* [Theo Cushion](http://teitter.com/theozaurus) and [Jamie Dyer](http://twitter.com/kernowsoul) on [Wuzlr](http://wuzlr.com)
+* [Theo Cushion](http://twitter.com/theozaurus) and [Jamie Dyer](http://twitter.com/kernowsoul) on [Wuzlr](http://wuzlr.com)
 * [Nicolas Alpi](http://twitter.com/spyou) on [Planet Toaster](http://www.planettoaster.com/)
 
 Wuzlr and Planet Toaster both being entries for this year's [Rails Rumble](http://r09.railsrumble.com/entries).
