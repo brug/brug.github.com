@@ -114,6 +114,12 @@ ul.posts {
   .site .meta {
     color: #aaa;
   }
+  
+  .site .sidebar {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
 
   .site .footer {
     font-size: 80%;
